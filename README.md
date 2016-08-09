@@ -1,2 +1,2 @@
 # hello
-Conhecendo o Git
+Conhecendo o Git, e editando
